@@ -1,0 +1,5 @@
+# Lets tests unwrap, expect, panic and index where the crate's lints deny it.
+allow-unwrap-in-tests = true
+allow-expect-in-tests = true
+allow-panic-in-tests = true
+allow-indexing-slicing-in-tests = true

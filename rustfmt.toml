@@ -1,0 +1,4 @@
+# `edition` is for bare `rustfmt`, which reads no Cargo.toml and otherwise
+# parses as 2015. `cargo fmt` passes its own.
+edition = "2024"
+style_edition = "2024"
